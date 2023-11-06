@@ -425,6 +425,10 @@ footer > img {
     hue-rotate(201deg) brightness(94%) contrast(89%);
 }
 
+.error-border {
+  border: 3px solid hsl(var(--clr-error)) !important;
+}
+
 @media (min-width: 600px) {
   nav {
     padding: 2rem 4rem;
@@ -451,6 +455,10 @@ footer > img {
   #info__form {
     display: grid;
     grid-template-columns: 1fr 150px;
+  }
+
+  #info__form > button {
+    max-height: 45px;
   }
 
   /* Second Section */
