@@ -17,5 +17,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor]()
-- Live Site URL: [netlify]()
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/fylo-landing-page-cTupvC8Eek)
+- Live Site URL: [netlify](https://magical-hamster-8cc140.netlify.app)
