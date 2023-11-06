@@ -108,9 +108,9 @@ body {
   display: grid;
 }
 
-/* Navbar */
+/* header */
 
-nav {
+header {
   max-height: 5rem;
   display: flex;
   flex-direction: row;
@@ -119,13 +119,13 @@ nav {
   padding: 2rem 1rem;
 }
 
-.nav__image {
+.header__image {
   max-height: 1.6rem;
   margin-right: auto;
   padding-left: 0.5rem;
 }
 
-nav > a {
+header > a {
   font-family: var(--ff-primary);
   font-size: 0.9rem;
   text-decoration: none;
@@ -430,7 +430,7 @@ footer > img {
 }
 
 @media (min-width: 600px) {
-  nav {
+  header {
     padding: 2rem 4rem;
   }
 
